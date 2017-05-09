@@ -18,3 +18,6 @@
 function getPal(){
   console.log('hello');
 }
+
+
+gooddbyeee
