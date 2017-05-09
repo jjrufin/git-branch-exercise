@@ -13,3 +13,8 @@
       console.log(i);
     }
   }
+
+
+function getPal(){
+  console.log('hello');
+}
