@@ -15,6 +15,10 @@
   }
 
 
+<<<<<<< .merge_file_tmv8E9
 function getPal(){
   console.log('hello');
 }
+=======
+hellooooo
+>>>>>>> .merge_file_GZETqb
